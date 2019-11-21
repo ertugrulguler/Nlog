@@ -1,0 +1,5 @@
+2019-11-21 13:21:16.0236    6 DEBUG NLogProject.Filters.ExcFilter Mail Target[gmail] 
+2019-11-21 13:27:15.7108    6 DEBUG NLogProject.Filters.ExcFilter Sýfýrla bölme giriþiminde bulunuldu. 
+2019-11-21 13:28:57.3304    6 DEBUG NLogProject.Filters.ExcFilter Mail Target[gmail] 
+2019-11-21 13:31:28.9142    5 DEBUG NLogProject.Filters.ExcFilter Mail Target[gmail] 
+2019-11-21 14:32:32.8009    6 DEBUG NLogProject.Filters.ExcFilter Mail Target[gmail] 

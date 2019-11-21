@@ -1,0 +1,3 @@
+2019-11-19 13:32:36.6758    6 ERROR NLogProject.Controllers.HomeController System.Exception: Hata1 System.Exception: Hata1
+2019-11-19 13:32:36.6758    6 ERROR NLogProject.Controllers.HomeController System.Exception: Hata2 System.Exception: Hata2
+2019-11-19 13:39:52.6042    6 ERROR NLogProject.Filters.ExcFilter Sýfýrla bölme giriþiminde bulunuldu. 

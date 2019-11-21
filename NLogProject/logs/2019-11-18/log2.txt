@@ -1,0 +1,2 @@
+2019-11-18 22:38:13.2695    5 ERROR NLogProject.Controllers.HomeController System.Exception: Hata1 System.Exception: Hata1
+2019-11-18 22:38:13.2695    5 ERROR NLogProject.Controllers.HomeController System.Exception: Hata2 System.Exception: Hata2

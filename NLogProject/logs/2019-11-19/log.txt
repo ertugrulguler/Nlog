@@ -1,0 +1,4 @@
+2019-11-19 13:32:36.6519    6  INFO NLogProject.Controllers.HomeController Hata bilgisi mesajý 
+2019-11-19 13:32:36.6758    6 DEBUG NLogProject.Controllers.HomeController Debug 
+2019-11-19 13:32:36.6758    6  WARN NLogProject.Controllers.HomeController Sample Warn 
+2019-11-19 13:32:36.6758    6 TRACE NLogProject.Controllers.HomeController Sample Trace 
