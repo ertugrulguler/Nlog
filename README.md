@@ -2,7 +2,7 @@
 
 Nlog projede oluşan hataları loglamamızı sağlayan bir dll'dir.
 
-H3 Nlog Kullanımı
+### Nlog Kullanımı
 
 1.Nugetten Nlog ve Nlog.Config yüklenmeli.
 2.Eğer mail atılacak ise Nlog.MailKit de yüklenmeli.
